@@ -1,0 +1,6 @@
+{
+  "name": "Entro Cowork",
+  "description": "Enterprise AI-powered workplace action and reconciliation assistant connecting Gmail, Drive, Chat, and ERP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
